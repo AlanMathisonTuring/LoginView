@@ -1,2 +1,1 @@
-#LoginView
-https://git.oschina.net/wuxinchao/LoginView.git
+https://github.com/AlanMathisonTuring/LoginView.git
